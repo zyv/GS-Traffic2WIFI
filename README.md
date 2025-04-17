@@ -33,7 +33,7 @@ Version 3.0 BETA is out for testing in BETA-Branch and offers some additional fe
 - Fixed: Resetsettings will now work all the times
 - Fixed: Minor Web-UI Changes for better usability
 - Added: Support for 2.0 Hardware (DEV-Devices)
-- Added: Lot more details in http://192.168,1.1/gs.json for debugging
+- Added: Lot more details in http://192.168.1.1/gs.json for debugging
 - Added: Showing Compile-Date of Firmware in WebUI
 - Added virtual Status-LED in WebUI (Works like the real Status-LED)
 - Added Orange-LED-Out-Warning if no valid Position is avilable, configurable in Web-UI
